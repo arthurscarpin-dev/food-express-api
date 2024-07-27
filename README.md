@@ -22,8 +22,8 @@
     </ul>
     <li>Criar o banco de dados no SQL Server</li>
     <ul>
-      <li>Executar script SQL "CREATE DATABASE Food_Express" para criar o banco de dados.</li>
-      <li>Executar o script SQL "CREATE TABLE Restaurante (RestauranteID INT IDENTITY(1,1) PRIMARY KEY, NomeRestaurante NVARCHAR(100) NOT NULL, Categoria NVARCHAR(50) NOT NULL, Status NVARCHAR(20) NOT NULL)" para criar a tabela no banco de dados.</li>
+      <li>Executar script SQL <b>"CREATE DATABASE Food_Express"</b> para criar o banco de dados.</li>
+      <li>Executar o script SQL <b>"CREATE TABLE Restaurante (RestauranteID INT IDENTITY(1,1) PRIMARY KEY, NomeRestaurante NVARCHAR(100) NOT NULL, Categoria NVARCHAR(50) NOT NULL, Status NVARCHAR(20) NOT NULL)"</b> para criar a tabela no banco de dados.</li>
     </ul>
     <li>Instalar as bibliotecas que estão no arquivo "requirements.txt"</li>
     <ul>
