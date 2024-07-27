@@ -24,7 +24,7 @@
     <ul>
       <li>Executar o comando "pip install -r requirements.txt" para instalar todas as dependências que são utilizadas nesse projeto.</li>
     </ul>
-        <li>Executar o comando "python manage.py runserver" para rodar a aplicação localmente.</li>
+        <li>Executar o comando "python app.py runserver" para rodar a aplicação localmente.</li>
       </ul>
   </ol>
 </div>
